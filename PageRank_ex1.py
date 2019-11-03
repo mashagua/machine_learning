@@ -32,3 +32,6 @@ for i in range(0,20):
         pr_tmp=pr
         continue
 
+##方法二：利用network库
+
+
